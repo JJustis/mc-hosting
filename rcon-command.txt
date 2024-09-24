@@ -1,0 +1,28 @@
+<?php
+require_once 'rcon.php';
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['action'] === 'sendRconCommand') {
+    $serverName = $_POST['serverName'];
+    $command = $_POST['rconCommand'];
+
+    // Load RCON server configuration based on the server name
+    // This is an example, replace with your actual logic to retrieve the server details
+    $rconHost = 'your-rcon-host';
+    $rconPort = 25575;  // Replace with the actual RCON port
+    $rconPassword = 'your-rcon-password';
+
+    try {
+        $rcon = new Rcon($rconHost, $rconPort, $rconPassword);
+
+        if ($rcon->connect()) {
+            $response = $rcon->sendCommand($command);
+
+            echo json_encode(['success' => true, 'response' => $response]);
+        } else {
+            echo json_encode(['success' => false, 'message' => 'Failed to connect to RCON server.']);
+        }
+    } catch (Exception $e) {
+        echo json_encode(['success' => false, 'message' => 'Error: ' . $e->getMessage()]);
+    }
+}
+?>

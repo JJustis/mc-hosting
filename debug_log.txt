@@ -1,0 +1,502 @@
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => stop
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => stop
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => stop
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => stop
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => stop
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => stop
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => stop
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /stop
+    [serverName] => justiscraft
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 10
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [serverName] => justiscraft
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 0.0.0.0
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => say hi
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+    [serverName] => justiscraft
+)
+Array
+(
+    [action] => sendRconCommand
+    [rconHost] => 127.0.0.1
+    [rconPort] => 81
+    [rconPassword] => 1
+    [rconCommand] => /say hi
+)

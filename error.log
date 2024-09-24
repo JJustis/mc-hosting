@@ -1,0 +1,132 @@
+[15-Aug-2024 22:32:53 Europe/Berlin] PHP Notice:  Undefined index: serverName in C:\portablexampp\htdocs\hosting\rcon_command.php on line 18
+[15-Aug-2024 22:32:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:32:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:33:05 Europe/Berlin] PHP Notice:  Undefined index: serverName in C:\portablexampp\htdocs\hosting\rcon_command.php on line 18
+[15-Aug-2024 22:33:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:33:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:41:03 Europe/Berlin] PHP Notice:  Undefined index: serverName in C:\portablexampp\htdocs\hosting\rcon_command.php on line 18
+[15-Aug-2024 22:41:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:41:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:41:24 Europe/Berlin] PHP Notice:  Undefined index: serverName in C:\portablexampp\htdocs\hosting\rcon_command.php on line 18
+[15-Aug-2024 22:41:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:41:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:55:37 Europe/Berlin] PHP Notice:  Undefined index: serverName in C:\portablexampp\htdocs\hosting\rcon_command.php on line 18
+[15-Aug-2024 22:55:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:55:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:56:03 Europe/Berlin] PHP Notice:  Undefined index: serverName in C:\portablexampp\htdocs\hosting\rcon_command.php on line 18
+[15-Aug-2024 22:56:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[15-Aug-2024 22:56:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[16-Aug-2024 00:03:38 Europe/Berlin] PHP Notice:  Undefined index: serverName in C:\portablexampp\htdocs\hosting\rcon_command.php on line 18
+[16-Aug-2024 00:03:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[16-Aug-2024 00:03:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[16-Aug-2024 00:09:35 Europe/Berlin] PHP Notice:  Undefined index: serverName in C:\portablexampp\htdocs\hosting\rcon_command.php on line 18
+[16-Aug-2024 00:09:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[16-Aug-2024 00:09:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 26
+[16-Aug-2024 00:22:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:28:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:28:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:28:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:29:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:30:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:31:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:34:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:35:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:35:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:37:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:37:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:38:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 28
+[16-Aug-2024 00:40:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 27
+[16-Aug-2024 00:40:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Rcon' not found in C:\portablexampp\htdocs\hosting\rcon_command.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\portablexampp\htdocs\hosting\rcon_command.php on line 27
